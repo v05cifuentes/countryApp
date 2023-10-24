@@ -13,7 +13,6 @@ import { SharedModule } from './shared/shared.module';
   imports: [
     AppRoutingModule,
     BrowserModule,
-
     SharedModule,
   ],
   providers: [],
